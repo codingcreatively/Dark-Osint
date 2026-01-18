@@ -23,4 +23,18 @@ It is designed to crawl `.onion` sites anonymously over Tor, extract and rank pa
 
 ## Installation
 
-1. Clone the repository: 
+## Clone the Repository
+1. https://github.com/codingcreatively/Dark-Osint.git
+2. cd Dark-Osint
+## Create & Activate Virtual Environment
+python3 -m venv venv
+source venv/bin/activate
+## Install Requirements
+pip install -r requirements.txt
+## Run Tor Manually (Second Terminal)
+sudo service tor start
+## Run Dark Osint
+python3 dark_osint.py
+
+
+
