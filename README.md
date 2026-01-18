@@ -1,4 +1,4 @@
-# Dark Osint â Onion Intelligence Framework
+# Dark Osint Onion Intelligence Framework
 
 ![Dark Osint Banner](https://img.shields.io/badge/Dark-OSINT-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
@@ -20,3 +20,7 @@ It is designed to crawl `.onion` sites anonymously over Tor, extract and rank pa
 - Save results to **JSON** files
 - Color-coded professional CLI interface
 - Modular, easy to extend with new engines or features
+
+## Installation
+
+1. Clone the repository: 
